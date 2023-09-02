@@ -26,5 +26,5 @@ int main()
         printf("no real roots,roots are imaginary");
     }
 
-
+return 0;
 }
