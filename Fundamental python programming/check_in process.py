@@ -10,7 +10,7 @@ if(ticket_status=="Confirmed"):
         extra_luggage_charge=300*(luggage_weight-max_weight_limit)
     else:
         extra_luggage_charge=500*(luggage_weight-max_weight_limit)
-    if(extra_luggage_charge>0):
+if(extra_luggage_charge>0):
         print("Extra luggage charge is Rs.", extra_luggage_charge)
         print("Please make the payment to clear check-in")
 else:
