@@ -5,7 +5,7 @@
 #include<stdio.h>
 int main()
 {
-    int i,j,rows;
+    int i,j,k,rows;
     printf("enter the row limit\n");
     scanf("%d",&rows);
     for(i = 0; i < rows; i++) 
