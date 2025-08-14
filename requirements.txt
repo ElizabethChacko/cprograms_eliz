@@ -1,0 +1,7 @@
+gcc# Required tools for running C programs
+gcc>=9.0.0   # GNU Compiler Collection
+make>=4.3    # Build automation tool (optional)
+
+# Optional tools
+valgrind>=3.19.0   # Memory debugging
+gdb>=12.0          # Debugger

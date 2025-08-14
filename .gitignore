@@ -1,0 +1,60 @@
+# ================================
+# .gitignore for C Programs Project
+# ================================
+
+# Build output directories
+build/
+bin/
+obj/
+
+# Compiled object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib    # Windows static libraries
+
+# Shared objects (shared libraries)
+*.so
+*.so.*
+*.dll    # Windows dynamic link libraries
+*.dll.a  # Import libraries for Windows DLLs
+
+# Executables
+*.exe
+*.out
+*.elf
+
+# Debug files and symbols
+*.pdb
+*.dSYM/
+*.stackdump
+
+# Dependency files
+*.d
+
+# Libtool files
+*.lo
+*.la
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup & swap files
+*~
+*.swp
+
+# Logs
+*.log
+
+# ==================================
+# IMPORTANT:
+# Do NOT ignore .c, .h, or .md files
+# These are part of the source code.
+# ==================================
