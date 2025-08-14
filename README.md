@@ -5,8 +5,6 @@
 
 📂 Repository Structure
 
-    All programs are stored in individual .c files, each focusing on a specific concept.You can compile them using GCC or any C compiler of your choice.
-
     src/
     ├── combinedC/                # General and pattern C programs
     │   ├── generalc programs/    # General C logic programs
@@ -97,17 +95,6 @@
         leap year
         minimum of 3 numbers
         palindrome
-
-📚 Topics Covered
-
-    Basic Input/Output
-    Loops & Conditional Statements
-    Functions & Recursion
-    Arrays & Strings
-    Pointers
-    Sorting & Searching Algorithms
-    Mathematical Computations
-
 🤝 Contributing
 
     Contributions are welcome!
@@ -121,10 +108,4 @@
 
     This repository is licensed under the MIT License – you’re free to use, modify, and distribute the code with proper credit.
 
-🙏 Acknowledgements
-
-    Thanks to all contributors for their time and effort.Open-source community for providing tools and inspiration.
-📌 Notes
-
-    This repository is meant for learning C programming through hands-on practice.All programs are written in standard C and can be compiled with gcc.
     
